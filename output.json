@@ -1,0 +1,436 @@
+{
+  "data": [
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/154/no-way-back-1656410438-DYBZU8U2rN.mp3",
+      "artist": [
+        "Custody",
+        "Just Isac",
+        "MADZI",
+        "SFRNG"
+      ],
+      "track": "No Way Back",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/154/100x100/no-way-back-1656410436-lmCSrM15Fp.jpg",
+      "preview": "50",
+      "tid": "f06265d1-571f-4fef-ae17-4de4300f3f84",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Mysterious",
+        "Energetic",
+        "Suspense",
+        "Quirky",
+        "Dark"
+      ],
+      "release_date": "28 Jun 2022",
+      "type": "Regular"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/113/falling-1649412038-s66KBvyTjg.mp3",
+      "artist": [
+        "Rival",
+        "CRVN"
+      ],
+      "track": "Falling",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/113/100x100/falling-1649412036-lkoB5hiJq8.jpg",
+      "preview": "60",
+      "tid": "ebb9ad16-e59e-4473-b09a-7aa2d26b4c74",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Angry",
+        "Dark",
+        "Epic",
+        "Fear",
+        "Gloomy",
+        "Scary",
+        "Suspense"
+      ],
+      "release_date": "8 Apr 2022",
+      "type": "Regular, Instrumental"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/042/feelings-1637316033-o3QtyQNKlz.",
+      "artist": [
+        "Facading"
+      ],
+      "track": "Feelings",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/042/100x100/feelings-1637316030-C0GWIrjmAv.jpg",
+      "preview": "56",
+      "tid": "94518b8a-559c-438c-af1e-d3ada57babf7",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Dark",
+        "Angry",
+        "Gloomy",
+        "Fear",
+        "Scary"
+      ],
+      "release_date": "19 Nov 2021",
+      "type": "Regular"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/043/feelings-1637323235-QTu7qhflPn.",
+      "artist": [
+        "Facading"
+      ],
+      "track": "Feelings",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/043/100x100/feelings-1637323232-nI3qjDSEKS.jpg",
+      "preview": "56",
+      "tid": "db2e6085-7c7a-41da-a840-591c6112cf2e",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Dark",
+        "Angry",
+        "Gloomy",
+        "Fear",
+        "Scary"
+      ],
+      "release_date": "19 Nov 2021",
+      "type": "Regular"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/022/looking-for-more-1633705235-Ivt5PS0zSF.mp3",
+      "artist": [
+        "Koven"
+      ],
+      "track": "Looking For More",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/022/100x100/looking-for-more-1633705232-L8MteCTyyQ.jpg",
+      "preview": "54",
+      "tid": "0bda9d72-fceb-40ea-be3e-53f66373c6a2",
+      "genre": "Dubstep, Bass",
+      "moods": [
+        "Dubstep",
+        "Bass",
+        "Energetic",
+        "Epic",
+        "Euphoric",
+        "Happy"
+      ],
+      "release_date": "8 Oct 2021",
+      "type": "Regular, Instrumental"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/006/what-you-like-1631271635-cC2vMe487N.mp3",
+      "artist": [
+        "Curbi"
+      ],
+      "track": "What You Like",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/001/006/100x100/what-you-like-1631271631-1nbDNE73Qu.jpg",
+      "preview": "43",
+      "tid": "4ceb0aa1-5873-4af2-a02f-28527092ccd4",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Dark",
+        "Energetic",
+        "Angry",
+        "Epic"
+      ],
+      "release_date": "10 Sep 2021",
+      "type": "Regular"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/885/dead-of-night-1609236037-9MfpB6VEhX.mp3",
+      "artist": [
+        "if found"
+      ],
+      "track": "Dead of Night",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/885/100x100/dead-of-night-1609236028-MO9yxOe5HC.jpg",
+      "preview": "42",
+      "tid": "3db2d7b2-fe13-4063-a618-a29eca83f45f",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Epic",
+        "Energetic",
+        "Euphoric",
+        "Quirky",
+        "Weird"
+      ],
+      "release_date": "29 Dec 2020",
+      "type": "Regular, Instrumental"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/853/phenomenon-1605895230-EleosL4jlP.mp3",
+      "artist": [
+        "Dax",
+        "VinDon",
+        "Unknown Brain"
+      ],
+      "track": "Phenomenon",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/853/100x100/phenomenon-1605895227-fAhxMTrRpG.jpg",
+      "preview": "52",
+      "tid": "4917ce5b-efc7-4d6f-8ffc-11aab0364355",
+      "genre": "Trap, Bass",
+      "moods": [
+        "Trap",
+        "Bass",
+        "Angry",
+        "Dark",
+        "Epic",
+        "Euphoric",
+        "Energetic",
+        "Fear",
+        "Gloomy",
+        "Suspense"
+      ],
+      "release_date": "20 Nov 2020",
+      "type": "Regular, Instrumental"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/838/1602924116_i3Tn2EkNdU_Rival---Lonely-Way-ft.-Caravn-NCS-Release.mp3",
+      "artist": [
+        "Rival",
+        "Caravn"
+      ],
+      "track": "Lonely Way",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/838/100x100/1602924116_v2O3UoVY11_Artwork.jpg",
+      "preview": "45",
+      "tid": "e65c8a91-e29f-44a7-b8da-aa0718a90f1c",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Dark",
+        "Angry",
+        "Fear",
+        "Gloomy",
+        "Glamorous",
+        "Epic"
+      ],
+      "release_date": "16 Oct 2020",
+      "type": "Regular, Instrumental"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/691/new-style-1586959962-Qyaa8hmvgv.mp3",
+      "artist": [
+        "Droptek"
+      ],
+      "track": "New Style",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/691/100x100/new-style-1586959956-pTXtBw9yzO.jpg",
+      "preview": "54",
+      "tid": "5ad982e8-61f5-4209-8e5b-5217d38d59ef",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Dark",
+        "Gloomy",
+        "Fear",
+        "Sad",
+        "Scary"
+      ],
+      "release_date": "29 Nov 2019",
+      "type": "Regular"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/671/where-we-started-feat-jex-1586959343-ugPNLDQsMI.mp3",
+      "artist": [
+        "Lost Sky",
+        "Jex"
+      ],
+      "track": "Where We Started (feat. Jex)",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/671/100x100/where-we-started-feat-jex-1586959339-BqrS2PV0TI.jpg",
+      "preview": "52",
+      "tid": "fceb443e-4f54-4144-af21-d2d63a4e60f2",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Epic",
+        "Dreamy",
+        "Glamorous",
+        "Hopeful"
+      ],
+      "release_date": "7 Nov 2019",
+      "type": "Regular, Instrumental"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/676/volt-1586959481-7oo0fw99Vt.mp3",
+      "artist": [
+        "Modern Revolt"
+      ],
+      "track": "VOLT",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/676/100x100/volt-1586959457-zDcTmbdEOq.png",
+      "preview": "34",
+      "tid": "5a0edff0-0879-4e04-ac1d-9bd1b4cfa664",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Energetic",
+        "Dark",
+        "Restless",
+        "Gloomy"
+      ],
+      "release_date": "11 Oct 2019",
+      "type": "Regular, Instrumental"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/674/in-your-head-feat-micah-martin-1586959419-ajviHk1S52.mp3",
+      "artist": [
+        "Micah Martin",
+        "CADMIUM",
+        "Rival"
+      ],
+      "track": "In Your Head (feat. Micah Martin)",
+      "cover": "/static/web/img/no-track.png?_m=1597301782",
+      "preview": "62",
+      "tid": "8ca11a65-ac27-4398-9a0c-28bd38807a5f",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Dark",
+        "Epic",
+        "Restless",
+        "Scary"
+      ],
+      "release_date": "9 Oct 2019",
+      "type": "Regular, Instrumental"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/649/war-zone-ft-mime-1586958862-uOdchVMspI.mp3",
+      "artist": [
+        "Unknown Brain",
+        "M.I.M.E"
+      ],
+      "track": "War Zone (ft. M.I.M.E)",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/649/100x100/war-zone-ft-mime-1586958856-RK8C6g2w4R.jpg",
+      "preview": "60",
+      "tid": "b0b829d3-b390-4365-ae85-554b25c59ee9",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Energetic",
+        "Angry",
+        "Epic",
+        "Gloomy"
+      ],
+      "release_date": "12 Jul 2019",
+      "type": "Regular"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/638/about-me-1586958656-YfIXF3Pscz.",
+      "artist": [
+        "Koven",
+        "ROY KNOX"
+      ],
+      "track": "About Me ",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/638/100x100/about-me-1586958649-X23FRwe76k.jpg",
+      "preview": "33",
+      "tid": "847e0593-e56d-4171-85ff-554d10dd01fd",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Euphoric",
+        "Energetic",
+        "Epic",
+        "Romantic",
+        "Glamorous"
+      ],
+      "release_date": "7 Jun 2019",
+      "type": "Regular, Instrumental"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/616/vision-1586958106-w6RKce6Cz4.mp3",
+      "artist": [
+        "Lost Sky"
+      ],
+      "track": "Vision",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/616/100x100/vision-1586958102-Zzy5Gf1SKm.jpg",
+      "preview": "68",
+      "tid": "1357d00d-adff-4a72-b65f-cf6e8ebb381e",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Epic",
+        "Gloomy",
+        "Dark",
+        "Weird"
+      ],
+      "release_date": "12 Apr 2019",
+      "type": "Regular"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/577/cradles-1586957268-RxHgjX9e14.mp3",
+      "artist": [
+        "Sub Urban"
+      ],
+      "track": "Cradles",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/577/100x100/cradles-1586957231-QpMwffYL5H.png",
+      "preview": "38",
+      "tid": "87079052-d78a-4f77-bbdf-b6224d9db645",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Quirky",
+        "Dark",
+        "Gloomy",
+        "Weird",
+        "Scary",
+        "Suspense"
+      ],
+      "release_date": "4 Jan 2019",
+      "type": "Regular, Instrumental"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/571/hold-on-1586957067-MGUj4iAWzZ.mp3",
+      "artist": [
+        "Diamond Eyes"
+      ],
+      "track": "Hold On",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/571/100x100/hold-on-1586957060-9bXINuXgqU.jpg",
+      "preview": "62",
+      "tid": "d9f6145c-2311-4c0e-971d-6c14c830ed07",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Hopeful",
+        "Euphoric",
+        "Dreamy",
+        "Energetic"
+      ],
+      "release_date": "21 Dec 2018",
+      "type": "Regular, Instrumental"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/544/flutter-1586956135-N16Ky2wO1G.mp3",
+      "artist": [
+        "Diamond Eyes"
+      ],
+      "track": "Flutter",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/544/100x100/flutter-1586956102-nU3BcEU8K6.jpg",
+      "preview": "54",
+      "tid": "8884ea31-9ef1-4212-9cc9-9342e4fc7790",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Sad",
+        "Angry",
+        "Dark",
+        "Gloomy",
+        "Energetic"
+      ],
+      "release_date": "17 Oct 2018",
+      "type": "Regular, Instrumental"
+    },
+    {
+      "url": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/539/ber-zer-ker-1586955996-HnL7Wa5EGt.mp3",
+      "artist": [
+        "WATEVA"
+      ],
+      "track": "Ber Zer Ker",
+      "cover": "https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/539/100x100/ber-zer-ker-1586955987-r6ulWDlL05.jpg",
+      "preview": "42",
+      "tid": "42d2e3df-1020-4ac8-adf1-a9563e85a1de",
+      "genre": "Bass",
+      "moods": [
+        "Bass",
+        "Energetic",
+        "Dark",
+        "Gloomy",
+        "Angry"
+      ],
+      "release_date": "4 Oct 2018",
+      "type": "Regular"
+    }
+  ]
+}
